@@ -24,7 +24,7 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-
+web/ModSimSEIRV_Website/node_modules
 Ignore/
 MANIFEST
 
